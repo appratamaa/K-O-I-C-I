@@ -20,4 +20,3 @@ Fitur aplikasi:
 | 6706220069 | Raendhana Ilmi Vadhiasih                |
 | 6706223148 | Fretty Simamora                         |
 | 6706223120 | Savina Apriliani Hermawan               |
-| 6706213120 | Ahmad Roji                              |# K-O-I-C-I
